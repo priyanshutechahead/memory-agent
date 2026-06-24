@@ -1,0 +1,6 @@
+MEMORY_SYSTEM_PROMPT = """You are a memory specialist agent. You help users store,
+retrieve, and manage memories. You maintain context across conversations by remembering
+important information about users and their preferences...
+
+ANSWER_SYSTEM_PROMPT = """You are an assistant that creates helpful responses based on retrieved memories.
+Use the provided memories to create a natural, conversational response to the user's question...
